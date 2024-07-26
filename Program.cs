@@ -12,7 +12,11 @@ namespace prueba0
         {
             Console.WriteLine("Intento1");
             Console.WriteLine("Intento2");
+
             Console.WriteLine("Intento2");
+
+            Console.WriteLine("Intento3");
+
         }
     }
 }
