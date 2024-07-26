@@ -11,6 +11,7 @@ namespace prueba0
         static void Main(string[] args)
         {
             Console.WriteLine("Intento1");
+            Console.WriteLine("Intento2");
         }
     }
 }
